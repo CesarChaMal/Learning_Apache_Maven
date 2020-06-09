@@ -7,7 +7,7 @@
 	<version>1.0.0</version>
 	
 	<build>
-		<directory>C:\IdeaProjects\Learning_Apache_Maven\Chapter 3\05_Profiles\development\</directory>
+		<directory>E:\IdeaProjects\Learning_Apache_Maven\Chapter 3\05_Profiles\development\</directory>
 	</build>
 
 	<profiles>
@@ -20,7 +20,7 @@
 				</property>
 			</activation>
 			<build>
-				<directory>C:\IdeaProjects\Learning_Apache_Maven\Chapter 3\05_Profiles\production\</directory>
+				<directory>E:\IdeaProjects\Learning_Apache_Maven\Chapter 3\05_Profiles\production\</directory>
 			</build>
 		</profile>
 	</profiles>	
